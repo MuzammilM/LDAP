@@ -6,3 +6,4 @@
 * Enter Organization name
 * Database backend: MDB.
 * Do you want the database to be removed when slapd is purged? No.
+* 
