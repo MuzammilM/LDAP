@@ -17,3 +17,7 @@ URI      ldap://localhost
 `ldapsearch -x | grep result`
 * If result: 0 Success ; then its configured correctly.
 * result: 32 No such object ; then its not configured correctly.
+
+### Install phpLDAPadmin
+
+``
