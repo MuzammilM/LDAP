@@ -14,4 +14,4 @@ BASE     dc=your-domain,dc=com
 URI      ldap://localhost
 
 ### Test OpenLDAP Server
-ldapsearch -x
+`ldapsearch -x | grep result`
