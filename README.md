@@ -1,3 +1,8 @@
 # LDAP
 `sudo apt install slapd ldap-utils`
 `sudo dpkg-reconfigure slapd`
+* Omit LDAP server configuration: NO.
+* Enter DN
+* Enter Organization name
+* Database backend: MDB.
+	*
