@@ -13,3 +13,4 @@
 BASE     dc=your-domain,dc=com
 URI      ldap://localhost
 
+### Test OpenLDAP Server
