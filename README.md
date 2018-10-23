@@ -21,3 +21,9 @@ URI      ldap://localhost
 ### Install phpLDAPadmin
 
 ``
+
+
+https://devopsideas.com/planning-of-ldap-dit-structure-and-config-of-overlays-access-ppolicy/
+Enable memberOf overlay
+https://devopsideas.com/installation-configuration-openldap-utilities-ubuntu/
+Configuring credentials for cn=config
