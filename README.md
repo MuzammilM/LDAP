@@ -22,10 +22,14 @@ URI      ldap://localhost
 
 ``
 
-
+### Enable memberOf overlay
 https://devopsideas.com/planning-of-ldap-dit-structure-and-config-of-overlays-access-ppolicy/
-Enable memberOf overlay
+
+### Configuring credentials for cn=config
 https://devopsideas.com/installation-configuration-openldap-utilities-ubuntu/
-Configuring credentials for cn=config
+
+
 https://devopsideas.com/openldap-graylog-ldap-integration/
+
+
 https://serverfault.com/questions/73213/how-do-i-configure-reverse-group-membership-maintenance-on-an-openldap-server
