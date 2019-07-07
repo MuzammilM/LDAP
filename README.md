@@ -10,6 +10,7 @@
 * Allow LDAPv2 protocol? No
 
 `sudo nano /etc/ldap/ldap.conf`
+
 BASE     dc=your-domain,dc=com
 URI      ldap://localhost
 
